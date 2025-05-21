@@ -1,4 +1,5 @@
-{"homepage": "https://dansodre.github.io/RevitLegis",
+{
+  "homepage": "https://dansodre.github.io/RevitLegis",
   "name": "revitlegis-app",
   "version": "0.1.0",
   "private": true,
@@ -20,7 +21,6 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-},
   },
   "eslintConfig": {
     "extends": [
