@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RevitLegis/static/css/main.e6c13ad2.css",
+    "main.js": "/RevitLegis/static/js/main.47f78f6e.js",
+    "static/js/453.b3feb95f.chunk.js": "/RevitLegis/static/js/453.b3feb95f.chunk.js",
+    "index.html": "/RevitLegis/index.html",
+    "main.e6c13ad2.css.map": "/RevitLegis/static/css/main.e6c13ad2.css.map",
+    "main.47f78f6e.js.map": "/RevitLegis/static/js/main.47f78f6e.js.map",
+    "453.b3feb95f.chunk.js.map": "/RevitLegis/static/js/453.b3feb95f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.47f78f6e.js"
+  ]
+}
